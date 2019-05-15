@@ -1,5 +1,5 @@
 ## Visualize Legged Robot Trajectories with Unreal Engine
-The goal of this project was to exlore the capabilities of Game Engines for fancy robot motion visualization. The Trajectories were generated with [towr](https://github.com/ethz-adrl/towr), but any trajectories specified through endeffector and base positions can be used. Unreal's internal Inverse Kinematics function calculates the corresponding joint angles. I built the level using assets from the free Unreal Slum Environment. Hope you like it :)
+The goal of this project was to explore the capabilities of game engines for photorealistic robot motion visualization. The trajectories were generated with [towr](https://github.com/ethz-adrl/towr), but any trajectories specified through end-effector and base positions can be used. Unreal's internal Inverse Kinematics function calculates the corresponding joint angles. I built the level using assets from the free Unreal Slum Environment. Hope you like it :)
 
 **Youtube:** *https://youtu.be/zXK70yU8tw0*
 
