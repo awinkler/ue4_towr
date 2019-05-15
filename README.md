@@ -5,7 +5,7 @@ The goal of this project was to explore the capabilities of game engines for pho
 
 [<img src="https://i.imgur.com/zm2nwF7.png" height="45" />](https://github.com/ethz-adrl/towr "Towr Github") &nbsp; &nbsp; &nbsp; &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/1200px-UE_Logo_Black_Centered.svg.png" height="55" />](https://www.unrealengine.com/en-US/feed?sessionInvalidated=true "Unreal Engine")
 
-[![Watch Youtube video](https://i.imgur.com/oO0LI2p.jpg)](https://youtu.be/zXK70yU8tw0)
+[![Watch Youtube video](https://i.imgur.com/AZfZz3W.jpg)](https://youtu.be/zXK70yU8tw0)
 
 ## Usage
 To experiment with this project, playback your own motions or change the camera shots, feel free to download
